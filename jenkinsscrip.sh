@@ -16,6 +16,7 @@ usermod -aG docker ubuntu
 
 ## Extra packages install
 apt install vim git -y
+### endpoint
 
 # run jenkins
 mkdir -p /var/jenkins_home
